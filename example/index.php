@@ -1,5 +1,7 @@
 <?php 
 
+	require __DIR__.'/vendor/autoload.php'; 
+	
 	$rules = [
 		'username' => ['required' => true, ],
 		'email' => ['required' => true],
