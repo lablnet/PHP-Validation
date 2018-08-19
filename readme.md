@@ -7,7 +7,7 @@
 
 ## install
 run this command
-``` composer ```
+``` composer require lablnet/validation ```
 
 ## usage
 
